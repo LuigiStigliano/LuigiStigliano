@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on innovative open-source projects that aim to make a real-world impact.
 - 📫 How to reach me: you can connect with me on LinkedIn.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'll drink on it and tell you
+- ⚡ Fun fact: I'll drink on it and I'll tell you
 
 <!---
 LuigiStigliano/LuigiStigliano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
