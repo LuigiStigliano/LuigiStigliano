@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development, emerging technologies, and creative problem-solving.
 - 🌱 I’m currently learning advanced Python concepts and exploring AI/ML.
 - 💞️ I’m looking to collaborate on innovative open-source projects that aim to make a real-world impact.
-- 📫 How to reach me: you can drop me an email at luigi.stigliano@outlook.com or connect with me on LinkedIn.
+- 📫 How to reach me: you can connect with me on LinkedIn.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'll drink on it and tell you
 
