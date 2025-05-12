@@ -18,9 +18,10 @@ _Contribuire a progetti open-source focalizzati sull'analisi e la visualizzazion
 <br>
 
 <details>
-<summary>📈 Queste sono le mie statistiche GitHub (clicca per visualizzarle)</summary>
+<summary>📈 Queste sono le mie statistiche GitHub (clicca per visualizzarle)</summary><br>
 
 [![Luigi's GitHub stats](https://github-readme-stats.vercel.app/api?username=luigistigliano&show_icons=true&theme=vue-dark&bg_color=1A1A1A&title_color=F2C94C&text_color=FFFFFF&icon_color=F2C94C&border_color=333333)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=luigistigliano&layout=compact&theme=vue-dark&bg_color=1A1A1A&title_color=F2C94C&text_color=FFFFFF&border_color=333333&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
