@@ -18,13 +18,4 @@ Attualmente sto approfondendo le mie competenze in Python, SQL e Power BI.
 [![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=luigistigliano&layout=compact&theme=vue-dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
-<p align="center">
-<a href="mailto:luigi.stigliano@outlook.com" target="blank" rel="noopener noreferrer">
-<img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/mail.svg" alt="Email" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/luigistigliano" target="_blank" rel="noopener noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon_white.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-</p>
-
 _<p align="center">Dai un'occhiata ai miei progetti! 👇</p>_
