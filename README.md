@@ -12,8 +12,8 @@ Attualmente sto approfondendo le mie competenze in **Python, SQL** e **Power BI*
 
 ### 🎯 Obiettivi attuali
 
-- _Sviluppare competenze avanzate nel campo dell'ingegneria dei dati_ 📊  
-- _Contribuire a progetti open-source focalizzati sull'analisi e la visualizzazione dei dati_ 🛠️  
+_Sviluppare competenze avanzate nel campo dell'ingegneria dei dati_ 📊  
+_Contribuire a progetti open-source focalizzati sull'analisi e la visualizzazione dei dati_ 🛠️  
 
 <br>
 
@@ -26,18 +26,6 @@ Attualmente sto approfondendo le mie competenze in **Python, SQL** e **Power BI*
 </details>
 
 <br>
-
-📫 **Contatti**
-
-<a href="mailto:luigi.stigliano@outlook.com">
-  <img src="assets/email_icon.svg" alt="Email" height="30" width="40" />
-</a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/luigistigliano">
-  <img src="assets/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-
-<br><br>
 
 👇 _Dai un'occhiata ai miei progetti!_
 
