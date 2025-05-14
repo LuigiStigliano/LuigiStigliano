@@ -5,7 +5,9 @@
 ## 👋 Ciao a tutti!
 
 Mi chiamo **Luigi Stigliano** e sono un _Junior Data Engineer_ con sede in Italia 🇮🇹.  
-Sono appassionato di **dati, automazione e soluzioni scalabili**.  
+Sono appassionato di **dati, automazione e soluzioni scalabili**.
+
+Ho un particolare interesse per la **ricerca operativa e l'ottimizzazione dei processi**.  
 Attualmente sto approfondendo le mie competenze in **Python, SQL** e **Power BI**.
 
 <br>
