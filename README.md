@@ -30,6 +30,16 @@ _Contribuire a progetti open-source focalizzati sull'analisi e la visualizzazion
 
 <br>
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuigiStigliano/LuigiStigliano/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuigiStigliano/LuigiStigliano/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/LuigiStigliano/LuigiStigliano/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br>
+
 👇 _Dai un'occhiata ai miei progetti!_
 
 </div>
