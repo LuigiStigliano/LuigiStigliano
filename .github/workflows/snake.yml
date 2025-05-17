@@ -19,7 +19,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
       
-      # Step 2: Generate the snake animations
+      # Step 2: Generate the snake animations with theme colors
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
@@ -29,7 +29,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=#539bf5&color_dots=#22272e,#444c56,#768390,#adbac7,#539bf5
+            dist/ocean.gif?palette=github-dark&color_snake=539bf5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
