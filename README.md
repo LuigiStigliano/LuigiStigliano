@@ -45,11 +45,11 @@
   
   # 📊 **GitHub Stats**
   
-  ![](https://github-readme-stats.vercel.app/api?username=LuigiStigliano&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)
+  ![](https://github-readme-stats.vercel.app/api?username=LuigiStigliano&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&cache_bust=1)
   
-  ![](https://nirzak-streak-stats.vercel.app/?user=LuigiStigliano&theme=github_dark_dimmed&hide_border=false)
+  ![](https://nirzak-streak-stats.vercel.app/?user=LuigiStigliano&theme=github_dark_dimmed&hide_border=false&cache_bust=1)
   
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiStigliano&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiStigliano&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_bust=1)
 </div>
 
 <div align="center">
