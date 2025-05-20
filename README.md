@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LuigiStigliano&label=Profile%20Viewers&color=007ACC&style=for-the-badge" alt="Profile Visitors" />
+  <!--<img src="https://komarev.com/ghpvc/?username=LuigiStigliano&label=Profile%20Viewers&color=007ACC&style=for-the-badge" alt="Profile Visitors" />-->
 
   # 💫 **About Me**
   
