@@ -3,6 +3,7 @@
         .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
             animation: fadeInAnimation 2s ease-in-out forwards;
+            fill: white;
         }
         @keyframes fadeInAnimation {
             0% { opacity: 0; }
