@@ -1,9 +1,9 @@
 <div align="center">
   <img src="github-banner.svg" width="100%" alt="Luigi Stigliano - Data Engineer Banner">
+  <img src="greeting.svg" alt="Saluto dinamico">
 </div>
 
 <div align="center">
-  <!--<img src="https://komarev.com/ghpvc/?username=LuigiStigliano&label=Profile%20Viewers&color=007ACC&style=for-the-badge" alt="Profile Visitors" />-->
 
   # 💫 **About Me**
   
