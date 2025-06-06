@@ -18,6 +18,7 @@
   ### 🎯 **Obiettivi attuali**:
   
   📊 Sviluppare **competenze avanzate** nel campo dell'*ingegneria dei dati*  
+  💻 Apprendere **Scala** e **Java** per sfruttare al meglio le potenzialità di **Apache Spark**  
   🛠️ Contribuire a **progetti open-source** focalizzati sull'*analisi e la visualizzazione dei dati*
 </div>
 
